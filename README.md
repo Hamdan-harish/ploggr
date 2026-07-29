@@ -74,10 +74,5 @@ Contributions are welcome!
 
 ---
 
-## 👨‍💻 Author
-
-**Hamdan Harish**
-
----
 
 > *Building a cleaner planet, one step at a time.* 🌍
